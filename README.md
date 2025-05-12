@@ -20,7 +20,6 @@ As a beginner i'm using this space to learn and get to know more about software 
  
     2.it challenges your brain and it offers satisfaction when solving complex issues 
 
-
-  
+  ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsZ2cxd2Nyc3d5NGF3MjVzc2pxZjBobnVndWhneGo1NnJ3YzA2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
               
        
